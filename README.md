@@ -1,5 +1,5 @@
 # Pron贸stico de aprobaci贸n del examen de egreso EGEL
 
-Impacto del contexto socioecon贸mico en estudiantes universitarios de la UDG para la acreditaci贸n del examen EGEL CENEVAL
+Predicción de Aprobación del Examen CENEVAL-EGEL
 
 ![logo](/logo_data_unicorns.PNG) 
