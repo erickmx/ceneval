@@ -1,5 +1,3 @@
-# PronÃ³stico de aprobaciÃ³n del examen de egreso EGEL
-
-Predicci¨®n de Aprobaci¨®n del Examen CENEVAL-EGEL
+# Predicción de Aprobación del Examen CENEVAL-EGEL
 
 ![logo](/logo_data_unicorns.PNG) 
