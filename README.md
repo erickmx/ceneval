@@ -1,8 +1,10 @@
-Documento Completo en: https://drive.google.com/file/d/1s1SnVJCPW9CCyjqJqJE9NjJbBD2lFbJ7/view?usp=sharing
+Documento Completo en: https://github.com/ricnef2121/ceneval/blob/master/Estudio/Proyecto_Ceneval.pdf
 
 ## Saturdays.IA
 
-# Predicción de Aprobación del Examen CENEVAL-EGEL
+# CENEVAL Approval Prediction
+
+## Predicción de Aprobación del Examen CENEVAL-EGEL
 
 ###### Sepúlveda-García Stephany, Gatica-Martínez Jessica, García-Dueñas Pamela Zoe, Mejía-Blanco Erick & Lazcano-Calixto Ricardo Neftali
 
@@ -48,4 +50,4 @@ En el año 2017 (Gonzalez-Marron, D., Enciso-Gonzalez, A., Hernandez-Gonzalez,..
 
 En 2012 (Vera, C. M., Morales, C. R., & Soto, S. V., 2012) realizaron un estudio llamado “Predicción del Fracaso Escolar mediante Técnicas de Minería de Datos” en dicho estudio los autores pretenden encontrar los componentes socioeconómicos que influyen en el fracaso escolar de los estudiantes, suspendan o abandonen la escuela, realizaron una reducción de dimensiones con 10 algoritmos distintos, para quedarse con 15 atributos determinantes para su modelo, y utilizaron algoritmos de clasificación como árboles de decisión, encontraron que los árboles de decisión Prism permiten conocer a los alumnos que tienen mayor probabilidad de abandonar la escuela con un 99.8% de confianza.
 
-Documento completo en: https://drive.google.com/file/d/1s1SnVJCPW9CCyjqJqJE9NjJbBD2lFbJ7/view?usp=sharing
+Documento completo en: https://github.com/ricnef2121/ceneval/blob/master/Estudio/Proyecto_Ceneval.pdf
