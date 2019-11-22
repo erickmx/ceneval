@@ -1,3 +1,5 @@
-# Predicción de Aprobación del Examen CENEVAL-EGEL
+Documento Completo en: https://drive.google.com/file/d/1s1SnVJCPW9CCyjqJqJE9NjJbBD2lFbJ7/view?usp=sharing
 
-![logo](/logo_data_unicorns.PNG) 
+# Predicciï¿½n de Aprobaciï¿½n del Examen CENEVAL-EGEL
+
+![logo](/logo_data_unicorns.PNG)
